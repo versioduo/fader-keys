@@ -1,0 +1,6 @@
+{
+  "cpu": {
+    "fqbn": "versioduo:samd:key-8",
+    "name": "fader-keys"
+  }
+}
